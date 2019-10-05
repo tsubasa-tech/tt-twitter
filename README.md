@@ -1,19 +1,28 @@
 # tt-twitter
 twitter search app on Rails+Docker-compose+Heroku Container Registry
 
-* Ruby version
+* Ruby version  
+2.5.1
 
-* System dependencies
+* System dependencies  
+Docker  
+Heroku
 
-* Configuration
+* Configuration  
+TBD
 
-* Database creation
+* Database creation  
+TBD
 
-* Database initialization
+* Database initialization  
+TBD
 
-* How to run the test suite
+* How to run the test suite  
+TBD
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.)  
+TBD
 
-* Deployment instructions
+* Deployment instructions  
+TBD
 
