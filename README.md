@@ -1,28 +1,33 @@
 # tt-twitter
 twitter search app on Rails+Docker-compose+Heroku Container Registry
 
-* Ruby version  
-2.5.1
+* Ruby version
+  - 2.5.1
 
-* System dependencies  
-Docker  
-Heroku
+* System dependencies
+  - Docker  
+  - Heroku
 
-* Configuration  
-TBD
+* Configuration
+  ```
+  $ git clone https://github.com/tsubasa-tech/tt-twitter.git
+  $ docker-compose run web rails db:create
+  $ docker-compose up
+  ```
+  - just follow three commands above, and then check http://localhost:3000/
 
-* Database creation  
-TBD
+* Database creation
+  - TBD
 
-* Database initialization  
-TBD
+* Database initialization
+  - TBD
 
-* How to run the test suite  
-TBD
+* How to run the test suite
+  - TBD
 
-* Services (job queues, cache servers, search engines, etc.)  
-TBD
+* Services (job queues, cache servers, search engines, etc.)
+  - TBD
 
-* Deployment instructions  
-TBD
+* Deployment instructions
+  - TBD
 
