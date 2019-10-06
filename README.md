@@ -37,3 +37,6 @@ twitter search app on Rails+Docker-compose+Heroku Container Registry
 * Deployment instructions
   - TBD
 
+* Reference  
+『DockerComposeでコンテナベースのRailsアプリを作成してそのままHerokuにデプロイする』  
+https://qiita.com/akirakudo/items/16a01271b0a39316e439
