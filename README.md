@@ -22,17 +22,15 @@ twitter search app on Rails+Docker-compose+Heroku Container Registry
   - further information about docker-compose  
   https://docs.docker.com/compose/reference/overview/
 
-* Database creation
-  - TBD
+* Rails command
+  ```
+  docker-compose run web rails xxxx
+  ```
 
-* Database initialization
-  - TBD
-
-* How to run the test suite
-  - TBD
-
-* Services (job queues, cache servers, search engines, etc.)
-  - TBD
+* Reflect your change
+  ```
+  $ docker-compose restart
+  ```
 
 * Deployment instructions
   - TBD
