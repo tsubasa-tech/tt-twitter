@@ -50,7 +50,11 @@ twitter search app on Rails+Docker-compose+Heroku Container Registry
   ```
 
 * Deployment instructions
-  - TBD
+  ```
+  $ heroku login
+  $ heroku container:login
+  $ heroku container:push web -a tt-twitter
+  ```
 
 * Reference  
 『DockerComposeでコンテナベースのRailsアプリを作成してそのままHerokuにデプロイする』  
