@@ -54,6 +54,7 @@ twitter search app on Rails+Docker-compose+Heroku Container Registry
   $ heroku login
   $ heroku container:login
   $ heroku container:push web -a tt-twitter
+  $ heroku container:release web -a tt-twitter
   ```
 
 * Reference  
